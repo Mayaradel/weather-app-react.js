@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![Screenshot (33)](https://github.com/Mayaradel/weather-app-react/assets/48599480/c316c54a-b05b-41e6-8e0a-5969763cabc6)
+![Screenshot (32)](https://github.com/Mayaradel/weather-app-react/assets/48599480/c5fe3caf-ad43-4a5e-9368-66cde31a8963)
 
 In the project directory, you can run:
 
